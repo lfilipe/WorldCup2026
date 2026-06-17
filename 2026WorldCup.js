@@ -189,7 +189,7 @@ function displayName(name) {
 const FLAGS = {
   "México": "🇲🇽", "África do Sul": "🇿🇦", "Coreia do Sul": "🇰🇷", "Chéquia": "🇨🇿",
   "Canadá": "🇨🇦", "Bósnia e Herzegovina": "🇧🇦", "Catar": "🇶🇦", "Suíça": "🇨🇭",
-  "Brasil": "🇧🇷", "Marrocos": "🇲🇦", "Haiti": "🇭🇹", "Escócia": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+  "Brasil": "🇧🇷", "Marrocos": "🇲🇦", "Haiti": "🇭🇹", "Escócia": "🏴",
   "Estados Unidos": "🇺🇸", "Paraguai": "🇵🇾", "Austrália": "🇦🇺", "Turquia": "🇹🇷",
   "Alemanha": "🇩🇪", "Curaçao": "🇨🇼", "Costa do Marfim": "🇨🇮", "Equador": "🇪🇨",
   "Países Baixos": "🇳🇱", "Japão": "🇯🇵", "Suécia": "🇸🇪", "Tunísia": "🇹🇳",
@@ -198,7 +198,7 @@ const FLAGS = {
   "França": "🇫🇷", "Iraque": "🇮🇶", "Noruega": "🇳🇴", "Senegal": "🇸🇳",
   "Argentina": "🇦🇷", "Áustria": "🇦🇹", "Jordânia": "🇯🇴", "Argélia": "🇩🇿",
   "Portugal": "🇵🇹", "Usbequistão": "🇺🇿", "Colômbia": "🇨🇴", "RD Congo": "🇨🇩",
-  "Inglaterra": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "Gana": "🇬🇭", "Panamá": "🇵🇦", "Croácia": "🇭🇷",
+  "Inglaterra": "🏴", "Gana": "🇬🇭", "Panamá": "🇵🇦", "Croácia": "🇭🇷",
 };
 
 // Mapa de nomes da ESPN (em inglês) para o nome da seleção em português
