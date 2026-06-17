@@ -1,6 +1,6 @@
 {
   "version": "2026-06-14_AL_GROUPS",
-  "rawBaseUrl": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main",
+  "rawBaseUrl": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main",
   "emotions": [
     {
       "key": "happy",
@@ -94,432 +94,432 @@
       "group": "A",
       "name": "México",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%A2%A8%E8%A5%BF%E5%93%A5_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%A2%A8%E8%A5%BF%E5%93%A5_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%A2%A8%E8%A5%BF%E5%93%A5_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Mexico_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Mexico_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Mexico_sad.png"
       }
     },
     {
       "group": "A",
       "name": "África do Sul",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%8D%97%E9%9D%9E_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%8D%97%E9%9D%9E_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%8D%97%E9%9D%9E_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/AfricaDoSul_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/AfricaDoSul_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/AfricaDoSul_sad.png"
       }
     },
     {
       "group": "A",
       "name": "Coreia do Sul",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E9%9F%A9%E5%9B%BD_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E9%9F%A9%E5%9B%BD_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E9%9F%A9%E5%9B%BD_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/CoreiaDoSul_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/CoreiaDoSul_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/CoreiaDoSul_sad.png"
       }
     },
     {
       "group": "A",
       "name": "Chéquia",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%8D%B7%E5%85%8B_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%8D%B7%E5%85%8B_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%8D%B7%E5%85%8B_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Chequia_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Chequia_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Chequia_sad.png"
       }
     },
     {
       "group": "B",
       "name": "Canadá",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%8A%A0%E6%8B%BF%E5%A4%A7_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%8A%A0%E6%8B%BF%E5%A4%A7_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%8A%A0%E6%8B%BF%E5%A4%A7_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Canada_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Canada_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Canada_sad.png"
       }
     },
     {
       "group": "B",
       "name": "Bósnia e Herzegovina",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%B3%A2%E9%BB%91_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%B3%A2%E9%BB%91_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%B3%A2%E9%BB%91_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/BosniaEHerzegovina_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/BosniaEHerzegovina_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/BosniaEHerzegovina_sad.png"
       }
     },
     {
       "group": "B",
       "name": "Catar",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%8D%A1%E5%A1%94%E5%B0%94_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%8D%A1%E5%A1%94%E5%B0%94_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%8D%A1%E5%A1%94%E5%B0%94_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Catar_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Catar_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Catar_sad.png"
       }
     },
     {
       "group": "B",
       "name": "Suíça",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E7%91%9E%E5%A3%AB_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E7%91%9E%E5%A3%AB_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E7%91%9E%E5%A3%AB_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Suica_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Suica_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Suica_sad.png"
       }
     },
     {
       "group": "C",
       "name": "Brasil",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%B7%B4%E8%A5%BF_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%B7%B4%E8%A5%BF_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%B7%B4%E8%A5%BF_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Brasil_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Brasil_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Brasil_sad.png"
       }
     },
     {
       "group": "C",
       "name": "Marrocos",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%91%A9%E6%B4%9B%E5%93%A5_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%91%A9%E6%B4%9B%E5%93%A5_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%91%A9%E6%B4%9B%E5%93%A5_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Marrocos_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Marrocos_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Marrocos_sad.png"
       }
     },
     {
       "group": "C",
       "name": "Haiti",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%B5%B7%E5%9C%B0_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%B5%B7%E5%9C%B0_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%B5%B7%E5%9C%B0_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Haiti_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Haiti_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Haiti_sad.png"
       }
     },
     {
       "group": "C",
       "name": "Escócia",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E8%8B%8F%E6%A0%BC%E5%85%B0_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E8%8B%8F%E6%A0%BC%E5%85%B0_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E8%8B%8F%E6%A0%BC%E5%85%B0_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Escocia_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Escocia_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Escocia_sad.png"
       }
     },
     {
       "group": "D",
       "name": "Estados Unidos",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E7%BE%8E%E5%9B%BD_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E7%BE%8E%E5%9B%BD_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E7%BE%8E%E5%9B%BD_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/EstadosUnidos_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/EstadosUnidos_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/EstadosUnidos_sad.png"
       }
     },
     {
       "group": "D",
       "name": "Paraguai",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%B7%B4%E6%8B%89%E5%9C%AD_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%B7%B4%E6%8B%89%E5%9C%AD_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%B7%B4%E6%8B%89%E5%9C%AD_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Paraguai_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Paraguai_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Paraguai_sad.png"
       }
     },
     {
       "group": "D",
       "name": "Austrália",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Australia_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Australia_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Australia_sad.png"
       }
     },
     {
       "group": "D",
       "name": "Turquia",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%9C%9F%E8%80%B3%E5%85%B6_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%9C%9F%E8%80%B3%E5%85%B6_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%9C%9F%E8%80%B3%E5%85%B6_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Turquia_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Turquia_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Turquia_sad.png"
       }
     },
     {
       "group": "E",
       "name": "Alemanha",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%BE%B7%E5%9B%BD_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%BE%B7%E5%9B%BD_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%BE%B7%E5%9B%BD_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Alemanha_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Alemanha_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Alemanha_sad.png"
       }
     },
     {
       "group": "E",
       "name": "Curaçao",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%BA%93%E6%8B%89%E7%B4%A2_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%BA%93%E6%8B%89%E7%B4%A2_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%BA%93%E6%8B%89%E7%B4%A2_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Curacao_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Curacao_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Curacao_sad.png"
       }
     },
     {
       "group": "E",
       "name": "Costa do Marfim",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/CostaDoMarfim_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/CostaDoMarfim_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/CostaDoMarfim_sad.png"
       }
     },
     {
       "group": "E",
       "name": "Equador",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Equador_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Equador_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Equador_sad.png"
       }
     },
     {
       "group": "F",
       "name": "Países Baixos",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E8%8D%B7%E5%85%B0_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E8%8D%B7%E5%85%B0_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E8%8D%B7%E5%85%B0_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/PaisesBaixos_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/PaisesBaixos_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/PaisesBaixos_sad.png"
       }
     },
     {
       "group": "F",
       "name": "Japão",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%97%A5%E6%9C%AC_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%97%A5%E6%9C%AC_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%97%A5%E6%9C%AC_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Japao_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Japao_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Japao_sad.png"
       }
     },
     {
       "group": "F",
       "name": "Suécia",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E7%91%9E%E5%85%B8_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E7%91%9E%E5%85%B8_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E7%91%9E%E5%85%B8_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Suecia_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Suecia_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Suecia_sad.png"
       }
     },
     {
       "group": "F",
       "name": "Tunísia",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E7%AA%81%E5%B0%BC%E6%96%AF_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E7%AA%81%E5%B0%BC%E6%96%AF_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E7%AA%81%E5%B0%BC%E6%96%AF_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Tunisia_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Tunisia_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Tunisia_sad.png"
       }
     },
     {
       "group": "G",
       "name": "Bélgica",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%AF%94%E5%88%A9%E6%97%B6_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%AF%94%E5%88%A9%E6%97%B6_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%AF%94%E5%88%A9%E6%97%B6_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Belgica_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Belgica_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Belgica_sad.png"
       }
     },
     {
       "group": "G",
       "name": "Egito",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%9F%83%E5%8F%8A_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%9F%83%E5%8F%8A_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%9F%83%E5%8F%8A_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Egito_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Egito_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Egito_sad.png"
       }
     },
     {
       "group": "G",
       "name": "Irão",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E4%BC%8A%E6%9C%97_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E4%BC%8A%E6%9C%97_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E4%BC%8A%E6%9C%97_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Irao_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Irao_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Irao_sad.png"
       }
     },
     {
       "group": "G",
       "name": "Nova Zelândia",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%96%B0%E8%A5%BF%E5%85%B0_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%96%B0%E8%A5%BF%E5%85%B0_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%96%B0%E8%A5%BF%E5%85%B0_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/NovaZelandia_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/NovaZelandia_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/NovaZelandia_sad.png"
       }
     },
     {
       "group": "H",
       "name": "Espanha",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E8%A5%BF%E7%8F%AD%E7%89%99_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E8%A5%BF%E7%8F%AD%E7%89%99_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E8%A5%BF%E7%8F%AD%E7%89%99_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Espanha_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Espanha_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Espanha_sad.png"
       }
     },
     {
       "group": "H",
       "name": "Cabo Verde",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E4%BD%9B%E5%BE%97%E8%A7%92_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E4%BD%9B%E5%BE%97%E8%A7%92_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E4%BD%9B%E5%BE%97%E8%A7%92_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Cabo Verde_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Cabo Verde_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Cabo Verde_sad.png"
       }
     },
     {
       "group": "H",
       "name": "Arábia Saudita",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/ArabiaSaudita_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/ArabiaSaudita_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/ArabiaSaudita_sad.png"
       }
     },
     {
       "group": "H",
       "name": "Uruguai",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E4%B9%8C%E6%8B%89%E5%9C%AD_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E4%B9%8C%E6%8B%89%E5%9C%AD_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E4%B9%8C%E6%8B%89%E5%9C%AD_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Uruguai_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Uruguai_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Uruguai_sad.png"
       }
     },
     {
       "group": "I",
       "name": "França",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%B3%95%E5%9B%BD_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%B3%95%E5%9B%BD_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%B3%95%E5%9B%BD_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Franca_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Franca_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Franca_sad.png"
       }
     },
     {
       "group": "I",
       "name": "Iraque",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E4%BC%8A%E6%8B%89%E5%85%8B_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E4%BC%8A%E6%8B%89%E5%85%8B_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E4%BC%8A%E6%8B%89%E5%85%8B_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Iraque_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Iraque_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Iraque_sad.png"
       }
     },
     {
       "group": "I",
       "name": "Noruega",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%8C%AA%E5%A8%81_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%8C%AA%E5%A8%81_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E6%8C%AA%E5%A8%81_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Noruega_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Noruega_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Noruega_sad.png"
       }
     },
     {
       "group": "I",
       "name": "Senegal",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Senegal_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Senegal_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Senegal_sad.png"
       }
     },
     {
       "group": "J",
       "name": "Argentina",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E9%98%BF%E6%A0%B9%E5%BB%B7_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E9%98%BF%E6%A0%B9%E5%BB%B7_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E9%98%BF%E6%A0%B9%E5%BB%B7_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Argentina_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Argentina_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Argentina_sad.png"
       }
     },
     {
       "group": "J",
       "name": "Áustria",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%A5%A5%E5%9C%B0%E5%88%A9_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%A5%A5%E5%9C%B0%E5%88%A9_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%A5%A5%E5%9C%B0%E5%88%A9_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Austria_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Austria_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Austria_sad.png"
       }
     },
     {
       "group": "J",
       "name": "Jordânia",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E7%BA%A6%E6%97%A6_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E7%BA%A6%E6%97%A6_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E7%BA%A6%E6%97%A6_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Jordania_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Jordania_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Jordania_sad.png"
       }
     },
     {
       "group": "J",
       "name": "Argélia",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E9%98%BF%E5%B0%94%E5%8F%8A%E5%88%A9%E4%BA%9A_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E9%98%BF%E5%B0%94%E5%8F%8A%E5%88%A9%E4%BA%9A_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E9%98%BF%E5%B0%94%E5%8F%8A%E5%88%A9%E4%BA%9A_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Argelia_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Argelia_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Argelia_sad.png"
       }
     },
     {
       "group": "K",
       "name": "Portugal",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E8%91%A1%E8%90%84%E7%89%99_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E8%91%A1%E8%90%84%E7%89%99_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E8%91%A1%E8%90%84%E7%89%99_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Portugal_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Portugal_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Portugal_sad.png"
       }
     },
     {
       "group": "K",
       "name": "Usbequistão",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Usbequistao_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Usbequistao_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Usbequistao_sad.png"
       }
     },
     {
       "group": "K",
       "name": "Colômbia",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Colombia_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Colombia_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Colombia_sad.png"
       }
     },
     {
       "group": "K",
       "name": "RD Congo",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%88%9A%E6%9E%9C%EF%BC%88%E9%87%91%EF%BC%89_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%88%9A%E6%9E%9C%EF%BC%88%E9%87%91%EF%BC%89_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%88%9A%E6%9E%9C%EF%BC%88%E9%87%91%EF%BC%89_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/RDCongo_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/RDCongo_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/RDCongo_sad.png"
       }
     },
     {
       "group": "L",
       "name": "Inglaterra",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E8%8B%B1%E6%A0%BC%E5%85%B0_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E8%8B%B1%E6%A0%BC%E5%85%B0_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E8%8B%B1%E6%A0%BC%E5%85%B0_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Inglaterra_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Inglaterra_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Inglaterra_sad.png"
       }
     },
     {
       "group": "L",
       "name": "Gana",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%8A%A0%E7%BA%B3_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%8A%A0%E7%BA%B3_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%8A%A0%E7%BA%B3_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Gana_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Gana_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Gana_sad.png"
       }
     },
     {
       "group": "L",
       "name": "Panamá",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%B7%B4%E6%8B%BF%E9%A9%AC_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%B7%B4%E6%8B%BF%E9%A9%AC_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%B7%B4%E6%8B%BF%E9%A9%AC_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Panama_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Panama_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Panama_sad.png"
       }
     },
     {
       "group": "L",
       "name": "Croácia",
       "avatars": {
-        "happy": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A_happy.png",
-        "neutral": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A_neutral.png",
-        "sad": "https://raw.githubusercontent.com/sugarfaye/FIFA-World-Cup-2026/main/avatars/%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A_sad.png"
+        "happy": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Croacia_happy.png",
+        "neutral": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Croacia_neutral.png",
+        "sad": "https://raw.githubusercontent.com/lfilipe/WorldCup2026/main/avatars/Croacia_sad.png"
       }
     }
   ]
