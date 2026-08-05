@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Liga Portugal Widget</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #0a0a1a;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", system-ui, sans-serif;
+    gap: 30px;
+    padding: 40px 20px;
+  }
+  .phone-frame {
+    width: 390px;
+    background: #1c1c1e;
+    border-radius: 44px;
+    padding: 14px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.05);
+  }
+  .widget {
+    width: 100%;
+    aspect-ratio: 375 / 155;
+    border-radius: 22px;
+    background: linear-gradient(180deg, #102640, #281c36);
+    padding: 12px 16px 8px 17px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .widget::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: repeating-linear-gradient(
+      -45deg,
+      transparent,
+      transparent 12px,
+      rgba(255,255,255,0.035) 12px,
+      rgba(255,255,255,0.035) 14px
+    );
+    pointer-events: none;
+  }
+  
+  .header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+  .header .day {
+    font-size: 18px;
+    font-weight: 800;
+    letter-spacing: -0.3px;
+  }
+  .header .date {
+    font-size: 12px;
+    font-weight: 800;
+    color: rgba(255,255,255,0.55);
+  }
+  .header .brand {
+    margin-left: auto;
+    font-size: 15px;
+    font-weight: 800;
+    color: #ffd11f;
+  }
+  .card {
+    flex: 1;
+    background: rgba(18,27,48,0.7);
+    border-radius: 10px;
+    margin-top: 6px;
+    overflow: hidden;
+    z-index: 1;
+  }
+  .match-row {
+    display: flex;
+    align-items: center;
+    height: 24px;
+    padding: 3px 8px;
+    background: rgba(255,255,255,0.055);
+  }
+  .match-row:first-child { border-radius: 10px 10px 0 0; }
+  .match-row:last-child { border-radius: 0 0 10px 10px; }
+  .match-row + .match-row { margin-top: 1px; }
+  .time {
+    width: 45px;
+    font-size: 13px;
+    font-weight: 800;
+    color: rgba(255,255,255,0.55);
+    flex-shrink: 0;
+  }
+  .team-cell {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    width: 95px;
+    font-size: 13px;
+    font-weight: 800;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .team-cell.away { justify-content: flex-end; }
+  .logo {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    flex-shrink: 0;
+    object-fit: contain;
+    background: rgba(255,255,255,0.1);
+  }
+  .vs {
+    width: 30px;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 800;
+    color: rgba(255,255,255,0.38);
+    flex-shrink: 0;
+  }
+  .status {
+    width: 50px;
+    text-align: right;
+    font-size: 11px;
+    font-weight: 800;
+    color: rgba(255,255,255,0.32);
+    flex-shrink: 0;
+  }
+  .status.win { color: #25d487; }
+  .status.lose { color: #ff626d; }
+  .status.draw { color: #ffd21f; }
+
+  /* Live match styles */
+  .live-widget {
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .live-badge {
+    background: #e83f49;
+    border-radius: 8px;
+    padding: 4px 11px;
+    font-size: 12px;
+    font-weight: 800;
+    color: white;
+    align-self: center;
+    margin-top: 15px;
+    z-index: 2;
+  }
+  .live-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    flex: 1;
+    width: 100%;
+    padding: 0 10px;
+  }
+  .avatar-box {
+    width: 90px;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+  .avatar-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: contain;
+    background: rgba(255,255,255,0.05);
+  }
+  .score-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+  }
+  .team-names {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .team-name {
+    font-size: 10px;
+    font-weight: 800;
+    color: white;
+    width: 50px;
+    text-align: center;
+  }
+  .vs-live {
+    font-size: 15px;
+    font-weight: 800;
+    color: rgba(255,255,255,0.38);
+  }
+  .score-panel {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: rgba(16,23,38,0.72);
+    border-radius: 14px;
+    padding: 4px 10px;
+  }
+  .score-num {
+    font-size: 36px;
+    font-weight: 900;
+    color: #25d487;
+  }
+  .score-num.lose { color: #ff626d; }
+  .score-num.draw { color: #ffd21f; }
+  .score-dash {
+    font-size: 18px;
+    font-weight: 800;
+    color: rgba(255,255,255,0.38);
+  }
+  .updated {
+    font-size: 8px;
+    color: rgba(255,255,255,0.22);
+    text-align: center;
+    margin-top: 2px;
+  }
+  .color-dots {
+    display: inline-flex;
+    align-items: center;
+    gap: 2px;
+  }
+  .color-dots .dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    border: 0.5px solid rgba(255,255,255,0.15);
+  }
+</style>
+</head>
+<body>
+  <div class="phone-frame">
+    <div class="widget live-widget">
+      <div class="live-badge">67' EM DIRETO</div>
+      
+    <div class="live-content">
+      <div class="avatar-box">
+        <img class="avatar-img" src="https://a.espncdn.com/i/teamlogos/soccer/500/12216.png" alt="Estoril">
+      </div>
+      <div class="score-block">
+        <div class="team-names">
+          <span class="team-name">Estoril</span>
+          <span class="vs-live">vs</span>
+          <span class="team-name">Famalicão</span>
+        </div>
+        <div class="score-panel">
+          <span class="score-num">2</span>
+          <span class="score-dash">-</span>
+          <span class="score-num lose">1</span>
+        </div>
+      </div>
+      <div class="avatar-box">
+        <img class="avatar-img" src="https://a.espncdn.com/i/teamlogos/soccer/500/12698.png" alt="Famalicão">
+      </div>
+    </div>
+      <div class="updated">⟳ Atualizado 16:49</div>
+    </div>
+  </div>
+  <div style="color:rgba(255,255,255,0.3);font-size:12px;text-align:center;">
+    Liga Portugal Widget Preview — gerado por <code>node test/run.mjs</code>
+  </div>
+</body>
+</html>
